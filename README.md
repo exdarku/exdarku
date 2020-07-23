@@ -1,4 +1,4 @@
-## नमस्ते 🙏
+## My Profile
 <div align="center">
 
 <a href="https://www.linkedin.com/in/dheeraj-2000/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> &nbsp; 
@@ -19,14 +19,16 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/dheeraj-2000/dheeraj-2000/blob/master/gifs/Hi.gif" width="30px"></h2> <br>
 You have finally discovered my Github profile. <br>
 Please feel free to clone projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/dheeraj-2000/dheeraj-2000/issues/new"><b>here</b></a><br>
-or <a href="mailto:dheeraj12000@gmail.com"><b>email</b></a> me
+Ask me anything <a href="https://github.com/exdarku/exdarku/issues/new"><b>here</b></a><br>
+or <a href="mailto:exdarku@gmail.com"><b>email</b></a> me
 
 <i>Happy Coding!</i> 😊
 
 </div>
 
 <div align="center">
+
+[![exdarku's github stats](https://github-readme-stats.vercel.app/api?username=exdarku)](https://github.com/exdarku/github-readme-stats)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dheeraj-2000&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="Dheeraj(@dheeraj-2000)'s Github Stats">
 
@@ -40,8 +42,6 @@ or <a href="mailto:dheeraj12000@gmail.com"><b>email</b></a> me
 
 
 </div>
-
-⭐ From [Dheeraj Chaudhary](https://github.com/dheeraj-2000)
 
 
 <!-- # 👀 Hi stranger! 👋🏻 -->
