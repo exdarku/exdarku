@@ -31,8 +31,7 @@ or <a href="mailto:exdarku@gmail.com"><b>email</b></a> me
 ![exdarku's github stats](https://github-readme-stats.vercel.app/api?username=exdarku&show_icons=true&theme=tokyonight)
 
 ---
-[![HitCount](http://hits.dwyl.com/dheeraj-2000/dheeraj-2000.svg)](http://hits.dwyl.com/dheeraj-2000/dheeraj-2000)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=dheeraj-2000.dheeraj-2000) 
+[![HitCount](http://hits.dwyl.com/exdarku/exdarku.svg)](http://hits.dwyl.com/exdarku/exdarku)
 
 
 
