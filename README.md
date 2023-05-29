@@ -15,3 +15,6 @@ I'm Laurence, an 18-year-old student residing in Davao City, Philippines. I spec
  - [Portfolio: laurencelesmoras.dev](https://laurencelesmoras.dev)
  - [LinkedIn: /in/laurencelesmoras](https://linkedin.com/in/laurencelesmoras)
 
+
+
+### Check out my projects below! 
